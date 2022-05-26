@@ -15,8 +15,8 @@ int main()
         mvprintw(3, 4, "Any String! Just for practice!");
 
         refresh();
-        getch();
     }
+    getch();
     endwin();
 
     return 0;
